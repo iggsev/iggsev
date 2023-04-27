@@ -30,7 +30,7 @@ During my time at my first consulting company, I developed a statistical model t
 
 ## Resume
 
-You can find my resume [here](https://github.com/iggsev/resume.tex).
+You can find my resume [here](https://github.com/iggsev/iggsev/blob/main/CV-2023.pdf).
 
 ### Education
 
