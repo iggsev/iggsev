@@ -1,10 +1,24 @@
-# Hi, I'm Igor Gusev
+Hi, I'm Igor Gusev 👋
 
-I am an Applied Math graduate from IME•USP, with a passion for Artificial Intelligence and Statistics. My academic project was a theoretical study on Neural Networks, which sparked my interest in Machine Learning. Since then, I have been working in the field of Machine Learning for two consulting companies, using my skills to optimize businesses and reduce expenses.
+🎓 I'm an Applied Math graduate from IME•USP, specializing in the fascinating realms of Artificial Intelligence and Statistics. My academic journey led me to delve deep into the theoretical intricacies of Neural Networks, sparking a profound interest in Machine Learning.
 
-## My Experience
+💼 Professional Background
+I've spent the last few years harnessing my analytical prowess in the field of Machine Learning, working with two dynamic consulting companies. My mission? To drive efficiency and cost reduction through data-driven insights.
 
-During my time at my first consulting company, I developed a statistical model that optimized bus ticket prices based on demand. At my second consulting company, I worked on a project that reduced expenses on resonance machines for a healthcare company.
+🌟 Notable Achievements
+- 🔬 Developed a cutting-edge statistical model during my tenure at my first consulting company. This model revolutionized bus ticket pricing by dynamically responding to demand fluctuations, optimizing revenue and passenger satisfaction.
+- 💡 Collaborated on a project at my second consulting company that streamlined expenses for a prominent healthcare organization. Our data-driven strategies significantly reduced costs related to resonance machines while enhancing operational efficiency.
+
+🤖 Let's Connect and Collaborate
+I'm passionate about leveraging data and machine learning to solve complex challenges. If you're exploring opportunities in this realm or simply interested in a chat about AI, statistics, or anything data-related, don't hesitate to connect!
+
+📚 Currently Pursuing
+- 🎓 MSc in Statistics (In Progress): I'm currently working on my Master's in Statistics, focusing on Bayesian Inference, High-Dimensional Statistical Learning, Time Series Analysis, and more.
+
+🚀 Let's embark on this exciting journey of data exploration and innovation together! Connect with me and let's make strides in the world of AI and Statistics.
+
+#MachineLearning #ArtificialIntelligence #Statistics #DataScience #IMEUSP #Consulting #BayesianInference #DataAnalysis
+
 
 ## Connect with me
 
