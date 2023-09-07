@@ -1,5 +1,3 @@
-Hi, I'm Igor Gusev 👋
-
 🎓 I'm an Applied Math graduate from IME•USP, specializing in the fascinating realms of Artificial Intelligence and Statistics. My academic journey led me to delve deep into the theoretical intricacies of Neural Networks, sparking a profound interest in Machine Learning.
 
 💼 Professional Background
@@ -14,11 +12,6 @@ I'm passionate about leveraging data and machine learning to solve complex chall
 
 📚 Currently Pursuing
 - 🎓 MSc in Statistics (In Progress): I'm currently working on my Master's in Statistics, focusing on Bayesian Inference, High-Dimensional Statistical Learning, Time Series Analysis, and more.
-
-🚀 Let's embark on this exciting journey of data exploration and innovation together! Connect with me and let's make strides in the world of AI and Statistics.
-
-#MachineLearning #ArtificialIntelligence #Statistics #DataScience #IMEUSP #Consulting #BayesianInference #DataAnalysis
-
 
 ## Connect with me
 
