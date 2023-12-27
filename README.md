@@ -3,17 +3,15 @@
 💼 Professional Background
 I've spent the last few years harnessing my analytical prowess in the field of Machine Learning, working with two dynamic consulting companies. My mission? To drive efficiency and cost reduction through data-driven insights.
 
-🌟 Notable Achievements
-- 🔬 Developed a cutting-edge statistical model during my tenure at my first consulting company. This model revolutionized bus ticket pricing by dynamically responding to demand fluctuations, optimizing revenue and passenger satisfaction.
-- 💡 Collaborated on a project at my second consulting company that streamlined expenses for a prominent healthcare organization. Our data-driven strategies significantly reduced costs related to resonance machines while enhancing operational efficiency.
-
-🤖 Let's Connect and Collaborate
-I'm passionate about leveraging data and machine learning to solve complex challenges. If you're exploring opportunities in this realm or simply interested in a chat about AI, statistics, or anything data-related, don't hesitate to connect!
 
 📚 Currently Pursuing
 - 🎓 MSc in Statistics (In Progress): I'm currently working on my Master's in Statistics, focusing on Bayesian Inference, High-Dimensional Statistical Learning, Time Series Analysis, and more.
 
 ## Connect with me
+
+🤖 Let's Connect and Collaborate
+I'm passionate about leveraging data and machine learning to solve complex challenges. If you're exploring opportunities in this realm or simply interested in a chat about AI, statistics, or anything data-related, don't hesitate to connect!
+
 
 <p align="left">
 <a href="https://linkedin.com/in/iggsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iggsev" height="30" width="40" /></a>
